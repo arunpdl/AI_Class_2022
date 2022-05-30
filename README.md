@@ -2,4 +2,5 @@
 
 Weekly Notes and Assignments for AI Class 2022
 
-## [Introduction to AI and Machine Learning](introduction_to_ai_and_ml.md)
+## [1. Introduction](1Introduction.md)
+## [5. Machine Learning](5MachineLearning.md)
